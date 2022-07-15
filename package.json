@@ -1,20 +1,26 @@
 {
     "name": "krimz-dark",
     "displayName": "Krimz Dark",
-    "description": "I made this in 5 minutes.",
+    "description": "Personal dark theme.",
     "version": "0.0.1",
+    "publisher": "Krimzo",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Krimzo/KrimzDark"
+	},
     "engines": {
-        "vscode": "^1.69.0"
+        "vscode": "*"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
                 "label": "Krimz Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Krimz Dark-color-theme.json"
+                "path": "./themes/krimz.json"
             }
         ]
     }
