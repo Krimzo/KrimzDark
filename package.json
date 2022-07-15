@@ -1,0 +1,21 @@
+{
+    "name": "krimz-dark",
+    "displayName": "Krimz Dark",
+    "description": "I made this in 5 minutes.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Krimz Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Krimz Dark-color-theme.json"
+            }
+        ]
+    }
+}
