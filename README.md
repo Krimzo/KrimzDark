@@ -2,6 +2,6 @@
 
 ## Screenshot
 
-![Screenshot](https://github.com/Krimzo/KrimzDark/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Krimzo/KrimzDark/main/screenshot.png)
 
 **Enjoy! :)**
