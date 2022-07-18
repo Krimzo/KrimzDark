@@ -1,7 +1,6 @@
 # Krimz Dark
 
-## Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/Krimzo/KrimzDark/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Krimzo/KrimzDark/main/screenshot0.png)
+![Screenshot](https://raw.githubusercontent.com/Krimzo/KrimzDark/main/screenshot1.png)
 
 **Enjoy! :)**
